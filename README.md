@@ -1,6 +1,6 @@
 SNAPCLIMA-APP
 
-Aplicativo que obtem informações sobre o clima de qualquer cidade do brasil.
+Aplicativo que obtêm informações sobre o clima de qualquer cidade do brasil.
 
 Instruções
 1.Primeiramente cllone o repositório
